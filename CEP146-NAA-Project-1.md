@@ -8,7 +8,7 @@ collaborative project development and material organization.
 
 ## Due Date
 - Please update the main README.md file with group member information as soon as possible.
-- Presentations are due before the start of class (12:35 PM) on Tuesday, October 14.
+- Presentations are due before the start of class (12:35 PM) on Friday, October 16.
 
 ---
 

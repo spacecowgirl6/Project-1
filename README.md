@@ -5,6 +5,6 @@ CEP project 1
 |--------|-----------|----------------|-------|
 |bethnwashi|Beth Washington|145009205|mwashington1@myseneca.ca|
 |crystalyang0525|Maijie Yang|061205142|myang74@myseneca.ca|
-|ValPettrv|Valentina Petrucci|124165259|vrpetuccicompanion@myseneca.ca|
+|ValPettru|Valentina Petrucci|124165259|vrpetuccicompanion@myseneca.ca|
 |spacecowgirl6|Selikem Yayra Abla Agboh|106162258|syaagboh@myseneca.ca|
 |fatimaa-farooq| Fatima Farooq Ahmad|123724254|ffarooq-ahmad@myseneca.ca|

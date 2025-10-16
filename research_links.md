@@ -12,4 +12,3 @@ Sergeyuk, A., Zakharov, I., Koshchenko, E., & Izadi, M. (2025). Human–AI exper
 Shubair, I. (2025, May 8). Researcher tackles discrimination and inherent bias in AI systems. Mcmaster. https://news.mcmaster.ca/maryam-ghasemaghaei-canada-research-chair-tackles-discrimination-inherent-bias-in-ai-systems/
 
 Van Rijmenam, M. (2023, February 16). Privacy in the Age of AI: Risks, Challenges and Solutions. The Digital Speaker. https://www.thedigitalspeaker.com/privacy-age-ai-risks-challenges-solutions/
-
